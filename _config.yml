@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Home, file: "index.md"}
   - {title: CV, file: "Gabriele_Lobbia_CV.pdf"}
   - {title: Papers, file: "index.md"}
-  - {title: Other, file: "seminars.md"}
+  - {title: Talks, file: "seminars.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:lobbia@math.muni.cz"}
