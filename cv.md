@@ -1,6 +1,6 @@
 ---
 tags: [formatting]
-title: "CV"
+title: "Short CV"
 layout: page
 filename: cv.md
 ---
