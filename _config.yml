@@ -18,7 +18,7 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Home, file: "index.md"}
-  - {title: CV, file: "Gabriele_Lobbia_CV.pdf"}
+  - {title: CV, file: "cv.md"}
   - {title: Research, file: "papers.md"}
   - {title: Talks, file: "seminars.md"}
 
