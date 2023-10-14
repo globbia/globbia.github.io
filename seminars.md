@@ -1,8 +1,10 @@
 ---
-title: Talks
+tags: [formatting]
+title: "Talks"
 layout: talks
 filename: seminars.md
---- 
+---
+
 - _A Skew Approach to Enrichment for Gray-categories_, [PSSL 107](https://sites.google.com/view/pssl-107-athens?pli=1/), April 2023. 
 - _Kan Injectivity and KZ-monads_, [SYCO 9](https://www.cl.cam.ac.uk/events/syco/9/), hybrid, September 2022.
 - _KZ-monads and Kan Injectivity_, [Masaryk University Algebra Seminar](http://www.math.muni.cz/~bourkej/BAS.html), hybrid, May 2022. 
