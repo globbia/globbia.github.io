@@ -1,7 +1,7 @@
 ---
 tags: [formatting]
 title: "Talks"
-layout: talks
+layout: page
 filename: seminars.md
 ---
 
