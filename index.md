@@ -11,7 +11,7 @@ Hey! I am currently a postdoc in the [Algebra Group](http://www.math.muni.cz/~bo
 My research interests are in category theory, logic and algebra. More precisely, I mainly work on low dimensional category theory, monad theory and skew structures (monoidal, multicategories...). 
 
 ## ItaCa
-I volunteer as social media manager for [ItaCa](https://progetto-itaca.github.io/).
+I volunteer as social media manager for [ItaCa](https://progetto-itaca.github.io/), the Italian community of Category theorists. 
 
 <a><img src="http://globbia.github.io/assets/bojack_hopper.png" align="center" width="500" ></a>
 
