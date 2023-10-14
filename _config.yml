@@ -19,7 +19,7 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Home, file: "index.md"}
   - {title: CV, file: "Gabriele_Lobbia_CV.pdf"}
-  - {title: Papers, file: "index.md"}
+  - {title: Research, file: "papers.md"}
   - {title: Talks, file: "seminars.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
@@ -27,7 +27,6 @@ external:                  # shows a footer with social links - for available ic
   - {title: Muni page, icon: university, url: "https://www.muni.cz/en/people/247277-gabriele-lobbia"}
   - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0002-2732-0317"}
   - {title: Scholar, icon: user-graduate, url: "https://scholar.google.com/citations?user=xjHu2moAAAAJ&hl=it"}
-#  - {title: "-", file: "orologi.md"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
