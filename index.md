@@ -36,4 +36,6 @@ You can find a list of some talks I have given [here](https://globbia.github.io/
 ## ItaCa
 I volunteer as social media manager for [ItaCa](https://progetto-itaca.github.io/).
 
+<a><img src="http://globbia.github.io/assets/bojack_hopper.png" align="below" width="460" ></a>
+
 
