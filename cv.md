@@ -8,7 +8,8 @@ filename: cv.md
 Here you can find a short version of my cv, for the complete version click [here](Gabriele_Lobbia_CV.pdf).
 
 ## Professional Experience
-- [2022-Present] <b>Postdoctoral Researcher</b>, Masaryk University (Brno, Czech Republic). 
+- [2022-Present] <b>Postdoctoral Researcher</b>, Masaryk University (Brno, Czech Republic), <br>
+   working on the project [*The language of higher dimensional categories*](https://www.muni.cz/en/research/projects/61809).
 
 ## Education
 - [2018-2022] <b>PhD in Mathematics</b>, University of Leeds (UK).
