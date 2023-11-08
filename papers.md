@@ -8,8 +8,8 @@ title: "Research"
 My research interests are in category theory, logic and algebra. More precisely, I mainly work on low dimensional category theory, monad theory and skew structures (monoidal, multicategories...). 
 
 ### Publications 
-[4] [A skew approach to enrichment for Gray-categories](https://arxiv.org/abs/2212.12358), with [J. Bourke](http://www.math.muni.cz/~bourkej/), <br>
-to appear in _Advances in Mathematics_, preprint available at [arXiv:2212.12358](https://arxiv.org/abs/2212.12358), 2023.  <br>
+[4] [A skew approach to enrichment for Gray-categories](https://www.sciencedirect.com/science/article/pii/S000187082300470X), with [J. Bourke](http://www.math.muni.cz/~bourkej/), <br>
+_Advances in Mathematics_, vol. 454:109327, preprint available at [arXiv:2212.12358](https://arxiv.org/abs/2212.12358), 2023.  <br>
 
 [3] [KZ-Pseudomonads and Kan Injectivity](https://arxiv.org/abs/2211.00380), with [I. Di Liberti](https://diliberti.github.io/) and [L. Sousa](http://www.estgv.ipv.pt/paginaspessoais/sousa/), <br>
 to appear in _Theory and Applications of Categories_ special volume in honour of Marta Bunge, preprint available at [arXiv:2211.00380](https://arxiv.org/abs/2211.00380), 2023. <br>
