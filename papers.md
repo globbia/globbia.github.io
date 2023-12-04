@@ -8,7 +8,8 @@ title: "Research"
 My research interests are in category theory, logic and algebra. More precisely, I mainly work on low dimensional category theory, monad theory and skew structures (monoidal, multicategories...). 
 
 ### Preprints  
-[5*] [_Some Remarks on the Interchange in Gray-categories_](https://arxiv.org/abs/2310.03503), with [N. Di Vittorio](https://divittorio.github.io/), available at [arXiv:2310.03503](https://arxiv.org/abs/2310.03503) (followup to [_A Gray-categorical pasting theorem_](http://www.tac.mta.ca/tac/volumes/39/5/39-05abs.html) by N. Di Vittorio), 2023. 
+[5*] [_Some Remarks on the Interchange in Gray-categories_](https://arxiv.org/abs/2310.03503), with [N. Di Vittorio](https://divittorio.github.io/), <br>
+available at [arXiv:2310.03503](https://arxiv.org/abs/2310.03503) (followup to [_A Gray-categorical pasting theorem_](http://www.tac.mta.ca/tac/volumes/39/5/39-05abs.html) by N. Di Vittorio), 2023. 
 
 ### Publications 
 [4] [A skew approach to enrichment for Gray-categories](https://www.sciencedirect.com/science/article/pii/S000187082300470X), with [J. Bourke](http://www.math.muni.cz/~bourkej/), <br>
