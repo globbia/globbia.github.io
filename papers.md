@@ -8,7 +8,7 @@ title: "Research"
 My research interests are in category theory, logic and algebra. More precisely, I mainly work on low dimensional category theory, monad theory and skew structures (monoidal, multicategories...). 
 
 ### Preprints  
-[6*] [_A finite approach to representable multicategories and related structures_](https://arxiv.org/abs/2310.03503),  <br>
+[6*] [_A finite approach to representable multicategories and related structures_](https://arxiv.org/abs/2312.06237),  <br>
 available at  [arXiv:2310.03503](https://arxiv.org/abs/2312.06237), 2023. <br>
 
 [5*] [_Some Remarks on the Interchange in Gray-categories_](https://arxiv.org/abs/2310.03503), with [N. Di Vittorio](https://divittorio.github.io/), <br>
