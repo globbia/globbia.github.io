@@ -1,7 +1,7 @@
 title: "Gabriele Lobbia"
 author: "Gabriele Lobbia"
 # logo: /assets/bojack_hopper.png
-description: "lobbia[at]math[dot]muni[dot]cz"
+description: "gabriele[dot]lobbia[at]unibo[dot]it"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -21,6 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: CV, file: "cv.md"}
   - {title: Research, file: "papers.md"}
   - {title: Talks, file: "seminars.md"}
+  - {title: Teaching, file: "teaching.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:lobbia@math.muni.cz"}
