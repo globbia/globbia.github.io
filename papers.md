@@ -8,7 +8,7 @@ title: "Research"
 My research interests are in category theory, with applications in logic, algebra and computer science. Usually, I work on/use low dimensional category theory (2-/3-dimensional). 
 
 ### Preprints  
-[7*] _Sketches and classifying Logoi_, with [I. Di Liberti](https://diliberti.github.io/)  <br>
+[7*] _Sketches and Classifying Logoi_, with [I. Di Liberti](https://diliberti.github.io/)  <br>
 arXiv preprint, 2024. <br>
 
 [6*] [_A finite approach to representable multicategories and related structures_](https://arxiv.org/abs/2312.06237),  <br>
