@@ -16,7 +16,7 @@ Here you can find my [cv](Gabriele_Lobbia_CV.pdf) and my [Google Scholar account
 
 My research interests are in category theory, with applications in logic, algebra and computer science. 
 Usually, I work on/use low dimensional category theory (2-/3-dimensional).
-I enjoy to vary the topics of my research, so far I managed to work on things like: monad theory; (skew) multicategories; (skew) monoidal structures; categorical logic (2-d injectivity, sketches). 
+I enjoy to vary the topics of my research, so far I managed to work on things like: monad theory; Gray-categories; (skew) multicategories; (skew) monoidal structures; categorical logic (2-d injectivity, sketches). 
 
 ## ItaCa
 I volunteer as social media manager for [ItaCa](https://progetto-itaca.github.io/), the Italian community of Category theorists. 
