@@ -14,7 +14,7 @@ available at [arXiv:2403.09264](https://arxiv.org/abs/2403.09264), 2024. <br>
 [6*] [_A finite approach to representable multicategories and related structures_](https://arxiv.org/abs/2312.06237),  <br>
 available at  [arXiv:2310.03503](https://arxiv.org/abs/2312.06237), 2023. <br>
 
-[5*] [_Some Remarks on the Interchange in Gray-categories_](https://arxiv.org/abs/2310.03503), [N. Di Vittorio](https://divittorio.github.io/), <br>
+[5*] [_Some Remarks on the Interchange in Gray-categories_](https://arxiv.org/abs/2310.03503), with [N. Di Vittorio](https://divittorio.github.io/), <br>
 available at [arXiv:2310.03503](https://arxiv.org/abs/2310.03503) (followup to [_A Gray-categorical pasting theorem_](http://www.tac.mta.ca/tac/volumes/39/5/39-05abs.html) by N. Di Vittorio), 2023. 
 
 ### Publications 
