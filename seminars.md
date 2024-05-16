@@ -5,6 +5,7 @@ layout: page
 filename: seminars.md
 ---
 
+- [COMING SOON] _Sketches and Classifying Logoi_, [CT 2024](https://www.usc.gal/regaca/ct2024/), Santiago de Compostela, June 2024. 
 - _2-dimensional Aspects of the Theory of Sketches_, [4th ItaCa Workshop](https://progetto-itaca.github.io/ItaCa-23/), Turin, December 2023. 
 - _Some Remarks on the Interchange in Gray-categories_, [Masaryk University Algebra Seminar](http://www.math.muni.cz/~bourkej/BAS.html), November 2023. 
 - _A Skew Approach to Enrichment for Gray-categories_, [ItaCa Fest 2023](https://progetto-itaca.github.io/pages/fest23.html#oct25), October 2023.
