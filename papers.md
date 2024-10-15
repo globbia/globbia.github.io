@@ -7,7 +7,10 @@ title: "Research"
 
 My research interests are in category theory, with applications in logic, algebra and computer science. Usually, I work on/use low dimensional category theory (2-/3-dimensional). 
 
-### Preprints  
+### Preprints 
+[8*] [_Quantitative Monoidal Algebra: Axiomatising Distance with String Diagrams_](https://arxiv.org/abs/2410.09229), with [Wojciech Różowski](https://wkrozowski.github.io/), [Ralph Sarkis](https://ralphs16.github.io/) and [Fabio Zanasi](http://www.zanasi.com/fabio/#/main.html), <br>
+available at [arXiv:2410.09229](https://arxiv.org/abs/2410.09229), 2024. <br>
+
 [7*] [_Sketches and Classifying Logoi_](https://arxiv.org/abs/2403.09264), with [I. Di Liberti](https://diliberti.github.io/), <br>
 available at [arXiv:2403.09264](https://arxiv.org/abs/2403.09264), 2024. <br>
 
