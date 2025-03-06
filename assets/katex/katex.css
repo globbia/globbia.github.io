@@ -930,7 +930,6 @@
   stroke: none;
 }
 .katex img {
-  border-style: none;
   border-radius: 2px;
   min-width: 0;
   min-height: 0;
