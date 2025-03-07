@@ -4,7 +4,7 @@ tags: [formatting]
 title: "Home"
 ---
 
-<a href="url"><img src="http://globbia.github.io/assets/io_ramen.jpg" align="right" width="200" style="float:right;margin-left:2em"></a>
+<a><img src="http://globbia.github.io/assets/io_ramen.jpg" align="right" width="200" style="float:right;margin-left:2em"></a>
 
 
 Hey! I am currently a postdoc (Assegnista di Ricerca) in the [Department of Computer Science and Engineering](https://disi.unibo.it/en) at Università di Bologna (Bologna, Italy), working with [Fabio Zanasi](http://www.zanasi.com/fabio/#/main.html). 
