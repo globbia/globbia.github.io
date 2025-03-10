@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Teaching, file: "teaching.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:lobbia@math.muni.cz"}
+  - {title: Mail, icon: envelope, url: "mailto:lobbia.math@gmail.com"}
   - {title: Muni page, icon: university, url: "https://www.muni.cz/en/people/247277-gabriele-lobbia"}
   - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0002-2732-0317"}
   - {title: Scholar, icon: user-graduate, url: "https://scholar.google.com/citations?user=xjHu2moAAAAJ&hl=it"}
