@@ -6,7 +6,6 @@ filename: cv.md
 ---
 
 Here you can find a short version of my cv, for the complete version click [here](Gabriele_Lobbia_CV.pdf).
-<img src="assets/llama_yoga.jpg" width="100px" align="right">
 
 ## Professional Experience
 - [Mar 2024-Present] <b>Postdoctoral Researcher</b> (Assegnista di Ricerca), Università di Bologna (Bologna, Italy), <br>
