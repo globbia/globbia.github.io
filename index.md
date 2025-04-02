@@ -7,10 +7,11 @@ title: "Home"
 <a><img src="http://globbia.github.io/assets/io_ramen.jpg" align="right" width="200" style="float:right;margin-left:2em"></a>
 
 
-Hey! I am currently a postdoc (Assegnista di Ricerca) in the [Department of Computer Science and Engineering](https://disi.unibo.it/en) at Università di Bologna (Bologna, Italy), working with [Fabio Zanasi](http://www.zanasi.com/fabio/#/main.html). 
+Hey! I am currently a research fellow (RTDA) in the [Logic group](https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/logica-matematica) at the [Department of Mathematics “Federigo Enriques”](https://www.unimi.it/en/education/faculties-and-schools/science-and-technology/mathematics) of the [Università degli Studi di Milano](https://www.unimi.it/en). 
 
-Before that i was part of the [Algebra Group](http://www.math.muni.cz/~bourkej/BAS.html) in the Department for Mathematics and Statistics at [Masaryk University](https://www.math.muni.cz/english/) (Brno, CZ) working with [John Bourke](https://www.math.muni.cz/~bourkej/). 
-Even before that I was a PhD student supervised by [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/) at the School of Mathematics, University of Leeds. I defended my thesis ["Pseudomonads, Relative Monads and Strongly Finitary Notions of Multicategory"](https://etheses.whiterose.ac.uk/30578/) in February 2022. 
+Before that I was a postdoc (Assegnista di Ricerca) in the [Department of Computer Science and Engineering](https://disi.unibo.it/en) at Università di Bologna (Bologna, Italy), working with [Fabio Zanasi](http://www.zanasi.com/fabio/#/main.html). 
+Even before that I was part of the [Algebra Group](http://www.math.muni.cz/~bourkej/BAS.html) in the Department for Mathematics and Statistics at [Masaryk University](https://www.math.muni.cz/english/) (Brno, CZ) working with [John Bourke](https://www.math.muni.cz/~bourkej/). 
+I completed my PhD at the School of Mathematics, University of Leeds, supervised by [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/. I defended my thesis ["Pseudomonads, Relative Monads and Strongly Finitary Notions of Multicategory"](https://etheses.whiterose.ac.uk/30578/) in February 2022. 
 
 Here you can find my [cv](Gabriele_Lobbia_CV.pdf) and my [Google Scholar account](https://scholar.google.com/citations?user=xjHu2moAAAAJ&hl=it).
 
