@@ -8,8 +8,9 @@ filename: cv.md
 Here you can find a short version of my cv, for the complete version click [here](Gabriele_Lobbia_CV.pdf).
 
 ## Professional Experience
-- [Mar 2024-Present] <b>Postdoctoral Researcher</b> (Assegnista di Ricerca), Università di Bologna (Bologna, Italy), <br>
-   working with [Fabio Zanasi](http://www.zanasi.com/fabio/#/main.html)
+- [Apr 2025-Present] <b>Research Fellow</b> (RTDA), Università degli studi di Milano (Milan, Italy). 
+- [Mar 2024-Mar 2025] <b>Postdoctoral Researcher</b> (Assegnista di Ricerca), Università di Bologna (Bologna, Italy), <br>
+   working with [Fabio Zanasi](http://www.zanasi.com/fabio/#/main.html).
 - [Jan 2022-Feb 2024] <b>Postdoctoral Researcher</b>, Masaryk University (Brno, Czech Republic), <br>
    working on the project [*The language of higher dimensional categories*](https://www.muni.cz/en/research/projects/61809) with [John Bourke](https://www.math.muni.cz/~bourkej/).
 
