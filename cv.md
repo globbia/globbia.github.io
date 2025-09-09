@@ -5,7 +5,7 @@ layout: page
 filename: cv.md
 ---
 
-Here you can find a short version of my cv, for the complete version click [here](Gabriele_Lobbia_CV.pdf).
+Here you can find a short version of my CV, for the complete version click [here](Gabriele_Lobbia_CV.pdf).
 
 ## Professional Experience
 - [Apr 2025-Present] <b>Research Fellow</b> (RTDA), Università degli studi di Milano (Milan, Italy) <br>
