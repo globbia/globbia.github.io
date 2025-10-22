@@ -6,11 +6,11 @@ title: "Teaching"
 ---
 # 2025/2026
 
-- [Autumn 2024] Lecturer for [_Matematica e fisica con elementi di abilità informatiche (cognomi A-K)_](https://myariel.unimi.it/course/view.php?id=8808#section-0), [Chimica e tecnologia farmaceutiche](https://ctf.cdl.unimi.it/it), Universit\'a degli Studi di Milano. 
+- [Autumn 2024] Lecturer for [_Matematica e fisica con elementi di abilità informatiche (cognomi A-K)_](https://myariel.unimi.it/course/view.php?id=8808#section-0), [Chimica e tecnologia farmaceutiche](https://ctf.cdl.unimi.it/it), Università degli Studi di Milano. 
 
 # 2024/2025
 
-- [Autumn 2024] Tutor for [_Matematica_](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/matematica-4), [Corso di Viticoltura ed Enologia](https://www.unimi.it/en/education/bachelor/viticulture-and-enology), Universit\'a degli Studi di Milano.
+- [Autumn 2024] Tutor for [_Matematica_](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/matematica-4), [Corso di Viticoltura ed Enologia](https://www.unimi.it/en/education/bachelor/viticulture-and-enology), Università degli Studi di Milano.
 
 # 2023/2024
 
