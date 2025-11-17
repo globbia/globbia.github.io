@@ -9,7 +9,7 @@ Here you can find a short version of my CV, for the complete version click [here
 
 ## Professional Experience
 - [Apr 2025-Present] <b>Research Fellow</b> (RTDA), Università degli studi di Milano (Milan, Italy) <br>
-  funded by the [PNRR Young Researcher 2024 - SoE Grant](https://www.gea.mur.gov.it/Bandi/YoungResearchersSOE2024). 
+  funded by the [PNRR Young Researcher 2024 - SoE Grant](https://www.gea.mur.gov.it/Bandi/YoungResearchersSOE2024) for the project [3-Dimensional Algebra](https://expertise.unimi.it/resource/project/PNRR_SOE25GLOBB_01).
 - [Mar 2024-Mar 2025] <b>Postdoctoral Researcher</b> (Assegnista di Ricerca), Università di Bologna (Bologna, Italy), <br>
    working with [Fabio Zanasi](http://www.zanasi.com/fabio/#/main.html).
 - [Jan 2022-Feb 2024] <b>Postdoctoral Researcher</b>, Masaryk University (Brno, Czech Republic), <br>
