@@ -21,7 +21,7 @@ available at [arXiv:2310.03503](https://arxiv.org/abs/2310.03503) (followup to [
 ### Publications 
 
 [5] [_Quantitative Monoidal Algebra: Axiomatising Distance with String Diagrams_](https://arxiv.org/abs/2410.09229), with [Wojciech Różowski](https://wkrozowski.github.io/), [Ralph Sarkis](https://ralphs16.github.io/) and [Fabio Zanasi](http://www.zanasi.com/fabio/#/main.html), <br>
-[_50th International Symposium on Mathematical Foundations of Computer Science (MFCS)_, Warsaw, Poland](https://mfcs2025.mimuw.edu.pl/#accepted), available at [arXiv:2410.09229](https://arxiv.org/abs/2410.09229), 2025. <br>
+[_50th International Symposium on Mathematical Foundations of Computer Science (MFCS)_, Warsaw, Poland](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.MFCS.2025.68), available at [arXiv:2410.09229](https://arxiv.org/abs/2410.09229), 2025. <br>
 
 [4] [_KZ-Pseudomonads and Kan Injectivity_](http://www.tac.mta.ca/tac/volumes/40/16/40-16abs.html), with [I. Di Liberti](https://diliberti.github.io/) and [L. Sousa](http://www.estgv.ipv.pt/paginaspessoais/sousa/), <br>
 _Theory and Applications of Categories (Bunge Festschrift)_, vol. 40, No. 16, pp 430-478, 2024 ([arXiv:2211.00380](https://arxiv.org/abs/2211.00380)). <br>
