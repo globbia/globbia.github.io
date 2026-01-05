@@ -9,6 +9,9 @@ My research interests are in category theory, with applications in logic, algebr
 
 ### Preprints 
 
+[9*] [_Canonical differential calculi via functorial geometrization_](https://arxiv.org/abs/2512.20742), with K. J. Flood and [G. Tendas](https://gtendas.github.io/), <br>
+available at [arXiv:2512.20742](https://arxiv.org/abs/2512.20742), 2024. <br>
+
 [8*] [_Sketches and Classifying Logoi_](https://arxiv.org/abs/2403.09264), with [I. Di Liberti](https://diliberti.github.io/), <br>
 available at [arXiv:2403.09264](https://arxiv.org/abs/2403.09264), 2024. <br>
 
