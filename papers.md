@@ -15,13 +15,13 @@ available at [arXiv:2512.20742](https://arxiv.org/abs/2512.20742), 2024. <br>
 [8*] [_Sketches and Classifying Logoi_](https://arxiv.org/abs/2403.09264), with [I. Di Liberti](https://diliberti.github.io/), <br>
 available at [arXiv:2403.09264](https://arxiv.org/abs/2403.09264), 2024. <br>
 
-[7*] [_A finite approach to representable multicategories and related structures_](https://arxiv.org/abs/2312.06237),  <br>
-available at  [arXiv:2310.03503](https://arxiv.org/abs/2312.06237), 2023. <br>
-
-[6*] [_Some Remarks on the Interchange in Gray-categories_](https://arxiv.org/abs/2310.03503), with [N. Di Vittorio](https://divittorio.github.io/), <br>
+[7*] [_Some Remarks on the Interchange in Gray-categories_](https://arxiv.org/abs/2310.03503), with [N. Di Vittorio](https://divittorio.github.io/), <br>
 available at [arXiv:2310.03503](https://arxiv.org/abs/2310.03503) (followup to [_A Gray-categorical pasting theorem_](http://www.tac.mta.ca/tac/volumes/39/5/39-05abs.html) by N. Di Vittorio), 2023. 
 
 ### Publications 
+
+[6] [_A finite approach to representable multicategories and related structures_](https://arxiv.org/abs/2312.06237),  <br>
+accepted to be published in _Theory and Applications of Categories_, available at  [arXiv:2310.03503](https://arxiv.org/abs/2312.06237), 2026. <br>
 
 [5] [_Quantitative Monoidal Algebra: Axiomatising Distance with String Diagrams_](https://arxiv.org/abs/2410.09229), with [Wojciech Różowski](https://wkrozowski.github.io/), [Ralph Sarkis](https://ralphs16.github.io/) and [Fabio Zanasi](http://www.zanasi.com/fabio/#/main.html), <br>
 [_50th International Symposium on Mathematical Foundations of Computer Science (MFCS)_, Warsaw, Poland](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.MFCS.2025.68), available at [arXiv:2410.09229](https://arxiv.org/abs/2410.09229), 2025. <br>
