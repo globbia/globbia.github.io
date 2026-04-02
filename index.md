@@ -6,6 +6,11 @@ title: "Home"
 
 <a><img src="http://globbia.github.io/assets/io_ramen.jpg" align="right" width="200" style="float:right;margin-left:2em"></a>
 
+###################################
+#### NEWS - Postdoctoral Position available soon
+[Luca Reggio](https://lucareggio.github.io/) and I are advertising a **1-year postdoctoral position for early career researchers** in the Logic Group at the University of Milan (Italy). We expect the official call to be published in April or May 2026, with interviews taking place in the first half of June. Interested candidates can get in touch informally by writing to Luca Reggio or me.
+
+###################################
 
 Hey! I am currently a research fellow (RTDA) in the [Logic group](https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/logica-matematica) at the [Department of Mathematics “Federigo Enriques”](https://www.unimi.it/en/education/faculties-and-schools/science-and-technology/mathematics) of the [Università degli Studi di Milano](https://www.unimi.it/en). 
 
