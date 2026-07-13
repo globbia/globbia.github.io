@@ -5,7 +5,7 @@ layout: page
 filename: seminars.md
 ---
 
-- _Constructing Canonical Calculi_, [CT 2026](https://ct2026.com/ct/program/), Baltimore (online), plenary, [slides](/assets/CT_Talk_2026_(handout).pdf), July 2026. 
+- _Constructing Canonical Calculi_, [CT 2026](https://ct2026.com/ct/program/), Baltimore (online), plenary, [slides](/assets/CT_Talk_2026_handout.pdf), July 2026. 
 - _Constructing Canonical Calculi_, [Masaryk University Algebra Seminar](http://www.math.muni.cz/~bourkej/BAS.html), Brno, April 2026.
 - _Constructing Canonical Calculi_, [LAC Seminar](https://lac.unimi.it/), Milan, February 2026.
 - _Constructing Canonical Calculi_, Category Theory Seminar, Macquaire University, Sydney, February 2026.
