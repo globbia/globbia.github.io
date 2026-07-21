@@ -19,7 +19,7 @@ Usually, I work on/use low dimensional category theory (2-/3-dimensional).
 I enjoy to vary the topics of my research, so far I managed to work on things like: monad theory; Gray-categories; (skew) multicategories; (skew) monoidal structures; categorical logic (2D injectivity, sketches). 
 
 ## ItaCa
-I volunteer as social media manager for [ItaCa](https://progetto-itaca.github.io/), the Italian community of Category theorists. 
+I am part of the promoting committee of [ItaCa](https://progetto-itaca.github.io/), the Italian community of Category theorists. 
 
 <a><img src="http://globbia.github.io/assets/bojack_hopper.png" align="middle" width="800" ></a>
 
