@@ -4,6 +4,11 @@ tags: [formatting]
 title: "Teaching"
 
 ---
+# 2026/2027
+
+- [Autumn 2026] Lecturer for [_Instituzioni di Matematica_](https://myariel.unimi.it/course/view.php?id=12662), Chimica Industriale, Università degli Studi di Milano.
+- [Autumn 2026] Lecturer for [_Computational Logic_](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2026/computational-logic), [Bachelor of Science in Artificial Intelligence](https://www.unimi.it/en/education/bachelor/artificial-intelligence), Universities of Milano-Bicocca, Milano Statale and Pavia.
+
 # 2025/2026
 
 - [Autumn 2024] Lecturer for [_Matematica e fisica con elementi di abilità informatiche (cognomi A-K)_](https://myariel.unimi.it/course/view.php?id=8808#section-0), [Chimica e tecnologia farmaceutiche](https://ctf.cdl.unimi.it/it), Università degli Studi di Milano. 
