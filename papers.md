@@ -9,6 +9,12 @@ My research interests are in category theory, with applications in logic, algebr
 
 ### Preprints 
 
+[11*] [_Semi-strict 4-categories as enriched categories_](https://arxiv.org/abs/2610.31448), with [J. Bourke](http://www.math.muni.cz/~bourkej/), <br>
+available at [arXiv:2610.31448](https://arxiv.org/abs/2610.31448), 2026. <br>
+
+[10*] [_The symmetric skew monoidal structure of Gray-categories_](https://arxiv.org/abs/2610.31410), with [J. Bourke](http://www.math.muni.cz/~bourkej/), <br>
+available at [arXiv:2610.31410](https://arxiv.org/abs/2610.31410), 2026. <br>
+
 [9*] [_Canonical differential calculi via functorial geometrization_](https://arxiv.org/abs/2512.20742), with K. J. Flood and [G. Tendas](https://gtendas.github.io/), <br>
 available at [arXiv:2512.20742](https://arxiv.org/abs/2512.20742), 2025. <br>
 
@@ -37,6 +43,3 @@ _Applied Categorical Structures_, 31 (19), preprint available at [arXiv:2007.129
 
 [1] [_On the formal theory of pseudomonads and pseudodistributive laws_](http://www.tac.mta.ca/tac/volumes/37/2/37-02abs.html), with [N. Gambino](http://www1.maths.leeds.ac.uk/~pmtng/), <br>
 _Theory and Applications of Categories_, vol. 37 (2), pp. 14-56, 2021 ([arXiv:0907.1359](https://arxiv.org/abs/0907.1359)).
-
-### Work in Progress
-- _Homotopical and higher categorical aspects of Gray-enrichment_, joint work with [J. Bourke](http://www.math.muni.cz/~bourkej/) (followup to [_A skew approach to enrichment for Gray-categories_](https://arxiv.org/abs/2212.12358)).
